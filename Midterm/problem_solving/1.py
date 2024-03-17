@@ -6,5 +6,5 @@ lexicon = {
  "enchantment": "The act of casting spells or charms.",
  "mystic": "Relating to mysteries or mystical powers."
 }
-word = "Abdullah"
+word = "enchantment"
 print(search_word(lexicon, word))
